@@ -13,33 +13,33 @@
 
 ---
 
-## 💫 About Me
+# 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <b>👋 Hi there! I'm Kaarunya</b>
-      <br/><br/>
-      🎓 <b>Aspiring AI & Data Science Engineer</b><br/>
-      📍 Salem, Tamil Nadu, India<br/>
-      🏫 B.Tech AI & DS - M Kumarasamy College of Engineering, Karur<br/>
-      📊 CGPA: 8.09/10<br/><br/>
-      
-      💡 <b>What drives me:</b><br/>
-      • Building intelligent solutions that solve real-world problems<br/>
-      • Bridging the gap between AI and practical applications<br/>
-      • Creating scalable, impactful software with clean code<br/><br/>
-      
-      🎯 <b>Currently:</b> Building AI-powered IoT systems & exploring LLMs
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaarunyaAS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="100%"/>
-    </td>
-  </tr>
-</table>
+🎓 Aspiring AI & Data Science Engineer  
+📍 Salem, Tamil Nadu, India  
+🏫 M Kumarasamy College of Engineering, Karur  
+📊 CGPA: 8.09 / 10  
+
+### 🚀 What Drives Me
+- Building intelligent real-world solutions
+- Combining AI with practical applications
+- Developing scalable software systems
+- Exploring automation & smart technologies
+
+### 🔥 Currently
+Working on AI-powered IoT systems and exploring LLMs.
 
 ---
 
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,react,bootstrap,flask,mysql,supabase,tensorflow,git,github,vscode,figma&perline=8"/>
+
+</div>
+
+---
 ## 🛠️ Tech Stack
 
 <p align="center">

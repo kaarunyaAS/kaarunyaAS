@@ -3,19 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=⚡+Turning+Data+into+Intelligence+⚡;🤖+AI+%26+Machine+Learning;🌐+Building+Scalable+Solutions" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaarunyaAS&style=flat-square&color=A855F7" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/kaarunyaAS?label=Followers&style=flat-square&color=A855F7" alt="Followers"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=⚡+Turning+Data+into+Intelligence+⚡;🤖+AI+%26+Machine+Learning;🌐+Building+Scalable+Solutions" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
-I’m a B.Tech student specializing in AI and Data Science,
-AI & Data Science Engineer focused on building smart, scalable, and real-time applications using Machine Learning, Flask, Supabase, and modern web technologies.
+<div align="center">
+
+Aspiring AI & Data Science Engineer with a strong interest in building intelligent and scalable software solutions. Skilled in Machine Learning, Full Stack Development, IoT systems, and AI-powered automation using technologies such as Python, Flask, Supabase, and modern web tools. Passionate about solving real-world problems through innovative technology and continuously exploring emerging advancements in Artificial Intelligence and cloud-based applications. Strong team player with a problem-solving mindset and a commitment to developing impactful digital solutions.
+
+</div>
 
 ### 🔥 Currently
 Working on AI-powered IoT systems and exploring LLMs.

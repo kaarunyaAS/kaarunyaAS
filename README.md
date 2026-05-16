@@ -12,10 +12,10 @@ Aspiring AI & Data Science Engineer with a strong interest in building intellige
 </div>
 
 🚀 Currently Working On  
-• AI Agents & Intelligent Automation  
-• RAG (Retrieval-Augmented Generation) Systems  
-• Fine-Tuning Large Language Models (LLMs)  
-• Building Real-Time AI Applications & Workflows
+<div align="center">
+AI Agents • RAG • LLM Fine-Tuning • Real-Time AI Systems
+</div>
+
 ---
 
 

@@ -14,32 +14,15 @@
 ---
 
 # 👨‍💻 About Me
-
-🎓 Aspiring AI & Data Science Engineer  
-📍 Salem, Tamil Nadu, India  
-🏫 M Kumarasamy College of Engineering, Karur  
-📊 CGPA: 8.09 / 10  
-
-### 🚀 What Drives Me
-- Building intelligent real-world solutions
-- Combining AI with practical applications
-- Developing scalable software systems
-- Exploring automation & smart technologies
+I’m a B.Tech student specializing in AI and Data Science,
+AI & Data Science Engineer focused on building smart, scalable, and real-time applications using Machine Learning, Flask, Supabase, and modern web technologies.
 
 ### 🔥 Currently
 Working on AI-powered IoT systems and exploring LLMs.
 
 ---
 
-# ⚡ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,react,bootstrap,flask,mysql,supabase,tensorflow,git,github,vscode,figma&perline=8"/>
-
-</div>
-
----
 ## 🛠️ Tech Stack
 
 <p align="center">

@@ -1,3 +1,4 @@
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=200&section=header&text=Kaarunya%20A%20S&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Interested%20in%20GenAI&descAlignY=62&descSize=22" width="100%"/>
 </p>
@@ -10,8 +11,9 @@ Aspiring AI & Data Science Engineer with a strong interest in building intellige
 
 </div>
 
-🚀 Currently Working On  
+
 <div align="center">
+🚀 Currently Working On  
 AI Agents • RAG • LLM Fine-Tuning • Real-Time AI Systems
 </div>
 

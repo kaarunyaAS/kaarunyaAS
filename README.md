@@ -4,7 +4,7 @@
 </p>
 
 
-# 👨‍💻 About Me
+# About Me
 <div align="center">
 
 Aspiring AI & Data Science Engineer with a strong interest in building intelligent and scalable software solutions. Skilled in Machine Learning, Full Stack Development, IoT systems, and AI-powered automation using technologies such as Python, Flask, Supabase, and modern web tools. Passionate about solving real-world problems through innovative technology and continuously exploring emerging advancements in Artificial Intelligence and cloud-based applications. Strong team player with a problem-solving mindset and a commitment to developing impactful digital solutions.
@@ -13,14 +13,14 @@ Aspiring AI & Data Science Engineer with a strong interest in building intellige
 
 
 <div align="center">
-🚀 Currently Working On  
+Currently Working On  
 AI Agents • RAG • LLM Fine-Tuning • Real-Time AI Systems
 </div>
 
 ---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,7 +45,7 @@ AI Agents • RAG • LLM Fine-Tuning • Real-Time AI Systems
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaarunyaAS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6EE7B7" />
@@ -54,7 +54,7 @@ AI Agents • RAG • LLM Fine-Tuning • Real-Time AI Systems
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaarunya2606">

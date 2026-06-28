@@ -1,21 +1,18 @@
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=200&section=header&text=Kaarunya%20A%20S&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Interested%20in%20GenAI&descAlignY=62&descSize=22" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=200&section=header&text=Kaarunya%20A%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=22"
+    width="100%"
+    alt="Kaarunya A S Banner"
+  />
 </p>
-
 
 # About Me
 <div align="center">
 
-Aspiring AI & Data Science Engineer with a strong interest in building intelligent and scalable software solutions. Skilled in Machine Learning, Full Stack Development, IoT systems, and AI-powered automation using technologies such as Python, Flask, Supabase, and modern web tools. Passionate about solving real-world problems through innovative technology and continuously exploring emerging advancements in Artificial Intelligence and cloud-based applications. Strong team player with a problem-solving mindset and a commitment to developing impactful digital solutions.
-
+Aspiring Software Developer with a strong foundation in Full-Stack Development and Artificial Intelligence. Experienced in building web applications, intelligent systems, and automation solutions using Java, Spring Boot, React, Python, and Machine Learning. Passionate about developing scalable software that combines modern engineering practices with AI to solve real-world challenges and deliver meaningful user experiences.
 </div>
 
-
-<div align="center">
-Currently Working On  
-AI Agents • RAG • LLM Fine-Tuning • Real-Time AI Systems
-</div>
 
 ---
 
